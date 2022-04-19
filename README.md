@@ -1,6 +1,6 @@
 ### ⚡️ Hello ! ⚡️
 
-Je m'apelle Sarah Delobel, titulaire d'une licence d'art et étudiante en informatique en IUT à l'universitée Jule Verne à Amiens, je passioné de design 👩🏽‍🎨 de développement web 👩🏽‍💻 et de café ☕️ , j'espère par mon travaille pouvoir vous aidez et vous inspirez pour vos projets !
+Je m'apelle Sarah Delobel, titulaire d'une licence d'art et étudiante en informatique en IUT à l'universitée Jule Verne à Amiens, je suis passioné de design 👩🏽‍🎨 de développement web 👩🏽‍💻 et de café ☕️ , j'espère par mon travaille pouvoir vous aidez et vous inspirez pour vos projets !
 
 N'hesitez pas à parcourir mon site si le coeur vous en dit 🎨 : https://sarahdelobel.github.io/portfolio/ 
 
