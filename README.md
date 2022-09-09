@@ -1,14 +1,11 @@
 ### ⚡️ Hello ! ⚡️
 
-Je m'apelle Sarah Delobel, titulaire d'une licence d'art et étudiante en IUT informatique à l'universitée Jule Verne à Amiens, je suis passioné de design 👩🏽‍🎨 de développement web 👩🏽‍💻 et de café ☕️ , j'espère par mon travaille pouvoir vous aidez et vous inspirez pour vos projets !
+ https://sarahdelobel.github.io/portfolio/ 
 
-N'hesitez pas à parcourir mon site si le coeur vous en dit 🎨 : https://sarahdelobel.github.io/portfolio/ 
-
-### Spécialisé dans :
   - 🖼 La création de web design
-  - 💻 Le développement front-end et back-end
+  - 💻 Le développement web
   - ✂️  Le montage photo et vidéo
-  - 🧹 Harry Potter 
+  
 
 ### Système d’exploitation 
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -51,7 +48,7 @@ N'hesitez pas à parcourir mon site si le coeur vous en dit 🎨 : https://sarah
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
   
   
-### Bonne journée à vous !
+
 
   ![HarryPotter](https://thumbs.gfycat.com/ThriftyUnhappyKatydid-size_restricted.gif)
 
